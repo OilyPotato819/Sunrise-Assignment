@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+}
+
+img {
+  display: none;
+}
+
+canvas {
+  border: black 2px solid;
+}
